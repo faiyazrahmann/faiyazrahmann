@@ -14,6 +14,7 @@ Currently Building [gosync](https://github.com/atomiqsys/gosync).
 * [Goose #1104] [fix: return clear error when migration file already exists](https://github.com/pressly/goose/pull/1104)
 * [Caddy #7980] [caddyhttp: remove unused QUICConfig from the HTTP/3 server](https://github.com/caddyserver/caddy/pull/7980)
 * [Caddy #7958] [chore: fix lint errors from newer golangci-lint](https://github.com/caddyserver/caddy/pull/7958)
-
+* [Caddy #8007] [acmeserver: say when the CA database is locked by another process](https://github.com/caddyserver/caddy/pull/8007)
+* [Caddy Website #569] [docs: document validate conflicts with exclusive resources](https://github.com/caddyserver/website/pull/569)
 
 I write about system design, database internals, Go, and Node.js at [faiyazrahman.me](https://faiyazrahman.me).
